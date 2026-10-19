@@ -48,8 +48,8 @@ Un módulo de Odoo para gestionar inmuebles, propietarios, clientes, visitas y o
 
 
 **Contacto📞**
-- Email:
-- LinkedIn: 
+- Email: robertogomezsuarez4@gmail.com
+- LinkedIn: [Roberto GS LinkedIn](https://www.linkedin.com/in/roberto-gómez-suárez-737aa0376/)
 
 <!--
 **Roberto-GS/Roberto-GS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
