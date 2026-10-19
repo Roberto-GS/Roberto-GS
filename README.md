@@ -27,7 +27,7 @@ Trabajo principalmente con **C#/.NET, Kotlin y Python**, aplicando arquitecturas
 ## 🚀 Proyectos destacados
 
 ### 💰 Finanzas App
-**Proyecto Final de DAM | Aplicación multiplataforma**
+[**Proyecto Final de DAM | Aplicación multiplataforma**](<https://github.com/Roberto-GS/finanzasapp-dam>)
 
 Aplicación para Android y Windows orientada a la gestión de finanzas personales, con un backend independiente y una arquitectura organizada en cuatro capas.
 
@@ -45,7 +45,7 @@ Aplicación para Android y Windows orientada a la gestión de finanzas personale
 ---
 
 ### 📦 GestionAlmacenPDA
-**Proyecto de prácticas | Aplicación Android**
+[**Proyecto de prácticas | Aplicación Android**](<https://github.com/Roberto-GS/GestionAlmacenPDA>)
 
 Aplicación para dispositivos PDA destinada a digitalizar y facilitar las operaciones habituales de un almacén.
 
@@ -63,7 +63,7 @@ Aplicación para dispositivos PDA destinada a digitalizar y facilitar las operac
 ---
 
 ### 🏠 ERP Inmobiliaria
-**Desarrollo de módulo personalizado para Odoo**
+[**Desarrollo de módulo personalizado para Odoo**](<https://github.com/Roberto-GS/inmobiliaria>)
 
 Módulo ERP orientado a centralizar la gestión de una inmobiliaria y sus procesos habituales.
 
