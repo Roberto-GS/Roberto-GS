@@ -9,11 +9,17 @@ He trabajado con C#/.NET (ASP.NET Core, EF Core), Kotlin/Android y Python/Odoo, 
 
 **Tecnologías**
 · _Lenguajes:_ C#, Java, Python y Kotlin
+
 · _Backend:_ ASP.NET Core, EF Core, REST APIs, JWT
+
 · _Multiplataforma y móvil:_ Android, .NET MAUI, Jetpack Compose
+
 · _Bases de datos:_ PostgreSQL, MySQL, SQLite, SQL
+
 · _Arquitectura y patrones:_ Clean Architecture, MVVM, Repository Pattern
+
 · _ERP:_ Odoo
+
 · _Herramientas y despliegue:_ Git, GitHub, Docker, Railway, Aiven
 
 <!--
