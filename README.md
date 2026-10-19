@@ -32,7 +32,8 @@ He trabajado con C#/.NET (ASP.NET Core, EF Core), Kotlin/Android y Python/Odoo, 
 **Proyectos Principales🗃️**
 Finanzas App - Proyecto Final DAM
 Una plicación multiplataforma (Android y Windows) para gestionar las finanzas personales: ingresos y gastos por categorías, objetivos con seguimiento en tiempo real, gráficas y grupos compartidos con ranking de gastos. API REST con ASP.NET Core y JWT, cliente en .NET MAUI y arquitectura en cuatro capas (Core, Infrastructure, API y UI). Base de datos en Aiven y despliegue con Docker en Railway.
-\nTecnologías: C# · ASP.NET Core · .NET MAUI · MySQL · Docker
+
+Tecnologías: C# · ASP.NET Core · .NET MAUI · MySQL · Docker
 
 GestionAlmacenPDA - Proyecto de Prácticas
 Una App Android para la gestión de entradas, salidas y stock mediante PDAs y con lector de código de barras nativo. Kotlin · Jetpack Compose · SQLite.
