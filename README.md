@@ -48,6 +48,7 @@ Un módulo de Odoo para gestionar inmuebles, propietarios, clientes, visitas y o
 
 
 **Contacto📞**
+- Teléfono: 692233757
 - Email: robertogomezsuarez4@gmail.com
 - LinkedIn: [Roberto GS LinkedIn](https://www.linkedin.com/in/roberto-gómez-suárez-737aa0376/)
 
