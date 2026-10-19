@@ -30,16 +30,26 @@ He trabajado con C#/.NET (ASP.NET Core, EF Core), Kotlin/Android y Python/Odoo, 
 
 
 **Proyectos Principales🗃️**
-Finanzas App - Proyecto Final DAM
+
+**_Finanzas App - Proyecto Final DAM_**
 Una plicación multiplataforma (Android y Windows) para gestionar las finanzas personales: ingresos y gastos por categorías, objetivos con seguimiento en tiempo real, gráficas y grupos compartidos con ranking de gastos. API REST con ASP.NET Core y JWT, cliente en .NET MAUI y arquitectura en cuatro capas (Core, Infrastructure, API y UI). Base de datos en Aiven y despliegue con Docker en Railway.
 
-Tecnologías: C# · ASP.NET Core · .NET MAUI · MySQL · Docker
+**Tecnologías:** C# · ASP.NET Core · .NET MAUI · MySQL · Docker
 
-GestionAlmacenPDA - Proyecto de Prácticas
-Una App Android para la gestión de entradas, salidas y stock mediante PDAs y con lector de código de barras nativo. Kotlin · Jetpack Compose · SQLite.
+_**GestionAlmacenPDA - Proyecto de Prácticas**_
+Una App Android para PDAs de almacén: control de entradas, salidas y stock con lector de código de barras nativo, usuarios con roles (administrador y operario) e histórico de movimientos. Además del encargo, diseñé la estructura de la aplicación y añadí la gestión de usuarios y la reactivación de productos inactivos.
 
-ERP Inmobiliaria - Odoo
-Un ERP a medida para centralizar los inmuebles, propietarios, clientes y visitas, con validaciones de negocio propias. Vistas de tabla, Kanban y calendario para gestionar las operaciones y las visitas
+**Tecnologías:** Kotlin · Jetpack Compose · Room (SQLite) · Hilt
+
+_**ERP Inmobiliaria - Odoo**_
+Un módulo de Odoo para gestionar inmuebles, propietarios, clientes, visitas y operaciones de una inmobiliaria, con validaciones de negocio propias y vistas de tabla, Kanban y calendario.
+
+**Tecnologías:** Odoo · Python · XML
+
+
+**Contacto📞**
+- Email:
+- LinkedIn: 
 
 <!--
 **Roberto-GS/Roberto-GS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
